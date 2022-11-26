@@ -1,24 +1,44 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails and React
+> Rails API application that generates random greetings
+## Rails front-end repo
+![front-end](https://github.com/Fourteen98/hello-react-front-end)
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
+- Postgres SQL
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+To get a local copy up and running follow these simple example steps.
 
-* Configuration
+- Git clone the repository.
+- Run `rails db:create` and `rails db:migrate` and `rails db:seed`
+- Run `rails s` and open localhost/3000 in your browser to see the web application running.
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Muhyideen Elias**
 
-* How to run the test suite
+- GitHub: [@fourteen98](https://github.com/fourteen98)
+- Twitter: [@muhyideen](https://twitter.com/fourteen98)
+- LinkedIn: [Muhyideen Elias](https://www.linkedin.com/muhyideen-elias)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
