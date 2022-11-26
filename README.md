@@ -2,7 +2,8 @@
 
 # Rails and React
 > Rails API application that generates random greetings
-
+## Rails front-end repo
+![](https://github.com/Fourteen98/hello-react-front-end)
 ## Built With
 
 - Ruby on Rails
